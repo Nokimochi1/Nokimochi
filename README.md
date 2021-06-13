@@ -5,4 +5,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokimochi1&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Some contributions in 2021:
-- [Solidity: Smart Contracts for entire Dapp✨](https://github.com/Caishen-Finance/SmartContracts)
+- [Solidity: Smart Contracts for caishen.finance✨](https://github.com/Caishen-Finance/SmartContracts)
